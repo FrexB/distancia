@@ -4,6 +4,7 @@ using namespace std;
 int main() {
 	double x1,y1,x2,y2,d;
 	cout<<"PROGRAMA PARA CALCULAR LA DISTANCIA ENTRE 2 PUNTOS."<<endl;
+	cout<<"Autor: XAVI"<<endl;
 	cout<<"x1:";
 	cin>>x1;
 	cout<<endl;
